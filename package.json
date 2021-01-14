@@ -1,0 +1,27 @@
+{
+  "name": "personal-blog",
+  "version": "1.0.0",
+  "description": "personal blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardzzz/personal-blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Bernard Wong",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/bernardzzz/personal-blog/issues"
+  },
+  "homepage": "https://github.com/bernardzzz/personal-blog#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "marked": "^1.2.7"
+  }
+}
